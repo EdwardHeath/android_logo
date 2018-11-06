@@ -1,0 +1,1 @@
+Logo created from tutorial available at http://thecodeplayer.com/walkthrough/css3-android-logo
